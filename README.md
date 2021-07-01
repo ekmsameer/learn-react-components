@@ -1,8 +1,5 @@
 # Contents
-Components
-Component Nesting
-React Props
-Passing and reciving props
+Components, Component Nesting, React Props, Passing and reciving props
 
 # Getting Started with Create React App
 
